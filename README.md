@@ -8,7 +8,7 @@ This project utilized the bank-additional-full.csv dataset retrieved from the UC
 
 More information about each feature can be found in the bank-additional-names.txt file in the data folder.
 
-## Models and Results:
+## Models:
 
 The Accuracy and ROC_AUC scores of each Machine Learning model used is presented below:
 

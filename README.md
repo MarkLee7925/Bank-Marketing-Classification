@@ -19,9 +19,6 @@ The following Machine Learning models were implemented in this project:
 
 The Accuracy and ROC_AUC scores of each model is presented below:
 
-- Logistic Regression - Accuracy = 90.945%, ROC_AUC = 93.110%
-- Decision Tree Classification - Accuracy = 91.392%, ROC_AUC = 93.575%
-
 <table border = "1">
   <thead>
     <th colspan = "3">Grid Search Results</th>
@@ -29,50 +26,32 @@ The Accuracy and ROC_AUC scores of each model is presented below:
   <tbody>
     <tr>
       <td><b></b></td>
-      <td><b>Accuracy</b></td>
-      <td><b>ROC_AUC</b></td>
+      <td><b>Accuracy (%)</b></td>
+      <td><b>ROC_AUC (%)</b></td>
     </tr>
     <tr>
-      <td><b>Best Score</b></td>
-      <td>91.569%</td>
-      <td>%</td>
+      <td><b>Logistic Regression</b></td>
+      <td>90.945</td>
+      <td>93.110</td>
     </tr>
     <tr>
-      <td colspan="3"><b>Best Parameters:</b></td>
+      <td><b>Decision Tree</b></td>
+      <td>91.392</td>
+      <td>93.575</td>
     </tr>
     <tr>
-      <td><b>criterion</b></td>
-      <td>'gini'</td>
-      <td>'entropy'</td>
-    </tr>
-    <tr>
-      <td><b>max_depth</b></td>
-      <td>60</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td><b>max_samples</b></td>
-      <td>0.8</td>
+      <td><b>Random Forest</b></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
-      <td><b>min_samples_leaf</b></td>
-      <td>6</td>
+      <td><b>LightGBM</b></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
-      <td><b>min_samples_split</b></td>
-      <td>9</td>
+      <td><b>XGBoost</b></td>
       <td></td>
-    </tr>
-    <tr>
-      <td><b>n_estimators</b></td>
-      <td>270</td>
-      <td>149</td>
-    </tr>
-    <tr>
-      <td><b>random_state</b></td>
-      <td>2</td>
       <td></td>
     </tr>
   </tbody>

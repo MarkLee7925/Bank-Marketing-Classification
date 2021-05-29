@@ -19,8 +19,8 @@ The following Machine Learning models were implemented in this project:
 
 The accuracy score of each model is presented below:
 
-- LR: 90.945%
-- DT: 91.392%
+- Logistic Regression: 90.945%
+- Decision Tree Classification: 91.392%
 
 ## Reference(s):
 

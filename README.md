@@ -21,7 +21,7 @@ The Accuracy and ROC_AUC scores of each model is presented below:
 
 <table border = "1">
   <thead>
-    <th colspan = "3">Grid Search Results</th>
+    <th colspan = "3">Classification Scores</th>
   </thead>
   <tbody>
     <tr>

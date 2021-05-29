@@ -8,16 +8,9 @@ This project utilized the bank-additional-full.csv dataset retrieved from the UC
 
 More information about each feature can be found in the bank-additional-names.txt file in the data folder.
 
-## Models:
+## Models and Results:
 
-The following Machine Learning models were implemented in this project:
-
-- Logistic Regression (LR)
-- Decision Tree Classification (DT)
-
-## Results
-
-The Accuracy and ROC_AUC scores of each model is presented below:
+The Accuracy and ROC_AUC scores of each Machine Learning model used is presented below:
 
 <table border = "1">
   <thead>
@@ -30,12 +23,12 @@ The Accuracy and ROC_AUC scores of each model is presented below:
       <td><b>ROC_AUC (%)</b></td>
     </tr>
     <tr>
-      <td><b>Logistic Regression</b></td>
+      <td><b>Logistic Regression (LR)</b></td>
       <td>90.945</td>
       <td>93.110</td>
     </tr>
     <tr>
-      <td><b>Decision Tree</b></td>
+      <td><b>Decision Tree (DT)</b></td>
       <td>91.392</td>
       <td>93.575</td>
     </tr>

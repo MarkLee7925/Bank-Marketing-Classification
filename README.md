@@ -17,10 +17,10 @@ The following Machine Learning models were implemented in this project:
 
 ## Results
 
-The accuracy score of each model is presented below:
+The Accuracy and ROC_AUC scores of each model is presented below:
 
-- Logistic Regression: 90.945%
-- Decision Tree Classification: 91.392%
+- Logistic Regression - Accuracy = 90.945%, ROC_AUC = 93.110%
+- Decision Tree Classification - Accuracy = 91.392%, ROC_AUC = 93.575%
 
 ## Reference(s):
 

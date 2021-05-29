@@ -39,21 +39,6 @@ The Accuracy and ROC_AUC scores of each model is presented below:
       <td>91.392</td>
       <td>93.575</td>
     </tr>
-    <tr>
-      <td><b>Random Forest</b></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b>LightGBM</b></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b>XGBoost</b></td>
-      <td></td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
 

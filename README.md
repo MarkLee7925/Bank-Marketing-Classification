@@ -14,11 +14,11 @@ The Accuracy and ROC_AUC scores of each Machine Learning model used is presented
 
 <table border = "1">
   <thead>
-    <th colspan = "3">Classification Scores</th>
+    <th colspan = "3">Classification Scores Per Model</th>
   </thead>
   <tbody>
     <tr>
-      <td><b></b></td>
+      <td><b>Model</b></td>
       <td><b>Accuracy (%)</b></td>
       <td><b>ROC_AUC (%)</b></td>
     </tr>

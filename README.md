@@ -33,7 +33,7 @@ The Accuracy and ROC_AUC scores of each Machine Learning model used is presented
       <td>93.575</td>
     </tr>
     <tr>
-      <td><b>Random Forest</b></td>
+      <td><b>Random Forest (RF)</b></td>
       <td>91.569</td>
       <td>94.780</td>
     </tr>

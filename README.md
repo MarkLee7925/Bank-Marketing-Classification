@@ -35,7 +35,7 @@ The Accuracy and ROC_AUC scores of each Machine Learning model used is presented
   </tbody>
 </table>
 
-## Reference(s):
+## References:
 
 - https://archive.ics.uci.edu/ml/datasets/bank+marketing
 - [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014

@@ -37,6 +37,11 @@ The Accuracy and ROC_AUC scores of each Machine Learning model used is presented
       <td>91.569</td>
       <td>94.780</td>
     </tr>
+    <tr>
+      <td><b>LightGBM (LGB)</b></td>
+      <td>91.763</td>
+      <td>95.021</td>
+    </tr>
   </tbody>
 </table>
 

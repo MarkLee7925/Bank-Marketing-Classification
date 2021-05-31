@@ -42,6 +42,11 @@ The Accuracy and ROC_AUC scores of each Machine Learning model used is presented
       <td>91.569</td>
       <td>94.780</td>
     </tr>
+    <tr>
+      <td><b>XGBoost</b></td>
+      <td>91.689</td>
+      <td>94.950</td>
+    </tr>
   </tbody>
 </table>
 

@@ -10,7 +10,7 @@ More information about each feature can be found in the bank-additional-names.tx
 
 ## Models:
 
-The Accuracy and ROC_AUC scores of each Machine Learning model used is presented below:
+The Accuracy and ROC_AUC scores of each Machine Learning model used are presented below:
 
 <table border = "1">
   <thead>

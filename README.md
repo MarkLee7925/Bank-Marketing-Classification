@@ -4,7 +4,7 @@ This classification project utilized several Machine Learning models to determin
 
 ## Dataset:
 
-This project utilized the bank-additional-full.csv dataset retrieved from the UCI Machine Learning Repository (link: https://archive.ics.uci.edu/ml/datasets/bank+marketing). This version closely resembles the data analyzed by [Moro et al., 2014] and contains 41188 samples and all 20 input features.
+This project utilized the bank-additional-full.csv dataset retrieved from the UCI Machine Learning Repository (link: https://archive.ics.uci.edu/ml/datasets/bank+marketing). This version closely resembles the data analyzed by [Moro et al., 2014] and contains 41,188 samples and all 20 input features.
 
 More information about each feature can be found in the bank-additional-names.txt file in the data folder.
 

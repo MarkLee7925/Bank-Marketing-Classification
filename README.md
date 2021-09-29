@@ -10,62 +10,13 @@ More information about each feature can be found in the bank-additional-names.tx
 
 ## Models:
 
-The Accuracy and ROC_AUC scores of each Machine Learning model used are presented below:
+The following Machine Learning models were implemented in this project:
 
-<table border = "1">
-  <thead>
-    <th colspan = "5">Final Classification Results</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Model</b></td>
-      <td colspan = "2"><b>Accuracy (%)</b></td>
-      <td colspan = "2"><b>ROC_AUC (%)</b></td>
-    </tr>
-    <tr>
-      <td><b></b></td>
-      <td><b>CV</b></td>
-      <td><b>Val.</b></td>
-      <td><b>CV</b></td>
-      <td><b>Val.</b></td>
-    </tr> 
-    <tr>
-      <td><b>Logistic Regression (LR)</b></td>
-      <td>90.945</td>
-      <td>91.588</td>
-      <td>93.110</td>
-      <td>87.053</td>
-    </tr>
-    <tr>
-      <td><b>Decision Tree (DT)</b></td>
-      <td>91.392</td>
-      <td>91.903</td>
-      <td>93.575</td>
-      <td>75.047</td>
-    </tr>
-    <tr>
-      <td><b>Random Forest (RF)</b></td>
-      <td>91.569</td>
-      <td>91.879</td>
-      <td>94.780</td>
-      <td>72.988</td>
-    </tr>
-    <tr>
-      <td><b>XGBoost (XGB)</b></td>
-      <td>91.689</td>
-      <td>92.243</td>
-      <td>94.950</td>
-      <td>76.251</td>
-    </tr>
-    <tr>
-      <td><b>LightGBM (LGB)</b></td>
-      <td>91.763</td>
-      <td>92.143</td>
-      <td>95.021</td>
-      <td>77.243</td>
-    </tr>
-  </tbody>
-</table>
+- Logistic Regresion (LR)
+- Decision Tree (DT)
+- Random Forest (RF)
+- XGBoost (XGB)
+- LightGBM (LGB)
 
 ## References:
 

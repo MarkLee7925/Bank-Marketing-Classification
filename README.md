@@ -22,3 +22,4 @@ The following Machine Learning models were implemented in this project:
 
 - https://archive.ics.uci.edu/ml/datasets/bank+marketing
 - [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014
+- Jason Brownlee, How to Calculate Feature Importance With Python, Machine Learning Mastery, Available from https://machinelearningmastery.com/calculate-feature-importance-with-python/, accessed June, 2021.

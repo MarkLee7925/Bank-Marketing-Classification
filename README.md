@@ -13,10 +13,11 @@ More information about each feature can be found in the bank-additional-names.tx
 The following Machine Learning models were implemented in this project:
 
 - Logistic Regresion (LR)
+  - This is a baseline model simple to implement.
 - Decision Tree (DT)
-- Random Forest (RF)
-- XGBoost (XGB)
+  - Tree-based model for more complex decision-making tasks.
 - LightGBM (LGB)
+  - Gradient boosting model; an alternative to the ubiquitous XGBoost model.
 
 ## References:
 

@@ -1,6 +1,6 @@
 # Bank-Marketing-Classification
 
-This classification project utilized several Machine Learning models to determine if a bank client has subscribed to a term deposit. The data used represents the results of a telemarketing campaign conducted by a Portuguese banking institiution. Each model was optimized and tuned to achieve the best possible scores.
+This classification project utilized several Machine Learning models to determine if a bank client has subscribed to a term deposit. The data used represents the results of a telemarketing campaign conducted by a Portuguese banking institution. Each model was optimized and tuned to achieve the best possible scores.
 
 ## Dataset:
 
